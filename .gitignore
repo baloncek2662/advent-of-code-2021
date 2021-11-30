@@ -1,3 +1,5 @@
+# cookies file, retrieved from adventofcode.com
+.cookies
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
