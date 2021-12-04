@@ -1,6 +1,6 @@
 # !/bin/bash
 
-# Put your cookies into a COOKIES var in a .cookies file in same directory as get_input.sh into
+# Put your cookies into a COOKIES var in a .cookies file in same directory as get_input.sh
 CURRENT_DIR="$(dirname "$(realpath "$0")")"
 source $CURRENT_DIR"/".cookies
 
